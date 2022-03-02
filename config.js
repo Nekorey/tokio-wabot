@@ -43,9 +43,9 @@ fs.watchFile(file_exif, () => {
   require('./lib/exif.json')
 })
 
-global.packname = Sticker_by_Sagiri
-global.author = ©-Radi
-
+ 
+ ​global​.​packname​ ​=​ ​sticker_name 
+ ​global​.​author​ ​=​ ​sticker_author
 
 global.multiplier = 69 // The higher, The harder levelup
 
